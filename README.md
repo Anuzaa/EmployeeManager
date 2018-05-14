@@ -1,6 +1,11 @@
 # employeemanager
 
-> A Vue.js project
+This is the employee management system where you can add employees,edit and view the employee details.
+
+Please click the link for the demo
+(https://anuzaa.github.io/)
+
+
 
 ## Build Setup
 
@@ -19,3 +24,4 @@ npm run build --report
 ```
 
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
